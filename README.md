@@ -22,6 +22,6 @@ Comparar clasificadores tradicionales y métodos no supervisados para la identif
 * DNN
 
 ## *Enlaces*
-*[video explicativo](https://drive.google.com/file/d/1L0THTHX1mhgrO-xzodBR1YzNDDobqJ0j/view?usp=drive_link)
+[video explicativo](https://drive.google.com/file/d/1L0THTHX1mhgrO-xzodBR1YzNDDobqJ0j/view?usp=drive_link)
 
-*[dateset-limpio](https://drive.google.com/drive/folders/1FKceJYid9KR3gJgPm89t5zWcjSPWhj24?usp=drive_link)
+[dateset-limpio](https://drive.google.com/drive/folders/1FKceJYid9KR3gJgPm89t5zWcjSPWhj24?usp=drive_link)
