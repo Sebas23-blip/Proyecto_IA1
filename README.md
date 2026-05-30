@@ -1,6 +1,6 @@
 # *Clasificación de especies raras*
 Proyecto de Inteligencia Artificial I
-![banner](banner_proyecto.png)
+![banner](https://gitlab.com/crisdifran122/clasificacion-de-especies-raras/-/raw/f8bc519df4b324005cebcca9b39f3eca04635507/banner_proyecto.png)
 
 ## *Autores*
 Jorge Sebastian Fuquene, Cristian Diaz Franco
