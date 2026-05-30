@@ -22,3 +22,4 @@ Comparar clasificadores tradicionales y métodos no supervisados para la identif
 * DNN
 
 ## *Enlaces*
+[elace video](https://drive.google.com/file/d/1L0THTHX1mhgrO-xzodBR1YzNDDobqJ0j/view?usp=drive_link)
